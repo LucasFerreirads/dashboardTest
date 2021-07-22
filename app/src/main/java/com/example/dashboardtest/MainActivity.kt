@@ -35,6 +35,5 @@ class MainActivity : AppCompatActivity() {
         btn4.setOnClickListener {
             Toast.makeText(this,"Botão 4 clicado",Toast.LENGTH_SHORT).show()
         }
-
     }
 }
